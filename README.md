@@ -9,7 +9,7 @@ An application to predict the prices of Stock Market based on the data of previo
 5. GUI is made using TkInter.
 
 ## Functionalities
-The application uses Linear Regression to predict the data. To predict the price for a particular day, provide the date of the day and the number of days (at least 5 days) to be analysed by Linear Regression Model to predict the price.The application displays the result in a seperate window. The RMSE(Root Mean Squared Error) in the model is .
+The application uses Linear Regression to predict the data. To predict the price for a particular day, provide the date of the day and the number of days (at least 5 days) to be analysed by Linear Regression Model to predict the price.The application displays the result in a seperate window. The RMSE(Root Mean Squared Error) in the model is 9.411367153360919.
 
 ## Pre-requisites
 1. Python
